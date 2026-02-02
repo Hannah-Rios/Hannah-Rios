@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hannah-Rios and I'm student of Web Development, beside I've a degree on Biology (my first love);
-- 👀 I’m interested in be expert with technology (because Home Office is my life style);
-- 🌱 I’m currently learning JavaScript and Itercom;
+![Intro](https://capsule-render.vercel.app/api?type=transparent&color=00C853&height=80&section=header&text=ℍ𝕚!%20𝕀'𝕞%20ℍ𝕒𝕟𝕟𝕒𝕙%20ℝ𝕚𝕠𝕤!%20👋&fontSize=28)
+![Role](https://capsule-render.vercel.app/api?type=transparent&color=FFFFFF&height=70&text=🇫​​🇺​​🇹​​🇺​​🇷​​🇪​%20🇫​​🇷​​🇴​​🇳​​🇹​-​🇪​​🇳​​🇩​%20🇼​​🇪​​🇧​%20🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇷&fontSize=24)
+![About](https://capsule-render.vercel.app/api?type=transparent&color=FFFFFF&height=90&text=👩‍💻%20𝗔𝗯𝗼𝘂𝘁%20𝗺𝗲&fontSize=34)
 - 💞️ I’m looking to collaborate on beginners like me. I really want a nerd group to be friends;
 - 📫 How to reach me: on LinkedIn (www.linkedin.com/in/hzrs2024) and X (https://x.com/HannahRios_), please follow me!!;
 - 😄 Pronouns: She/Her;
