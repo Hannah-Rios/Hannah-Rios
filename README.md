@@ -1,13 +1,20 @@
-![Intro](https://capsule-render.vercel.app/api?type=transparent&color=00C853&height=80&section=header&text=ℍ𝕚!%20𝕀'𝕞%20ℍ𝕒𝕟𝕟𝕒𝕙%20ℝ𝕚𝕠𝕤!%20👋&fontSize=28)
-![Role](https://capsule-render.vercel.app/api?type=transparent&color=FFFFFF&height=70&text=🇫​​🇺​​🇹​​🇺​​🇷​​🇪​%20🇫​​🇷​​🇴​​🇳​​🇹​-​🇪​​🇳​​🇩​%20🇼​​🇪​​🇧​%20🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇷&fontSize=24)
-![About](https://capsule-render.vercel.app/api?type=transparent&color=FFFFFF&height=90&text=👩‍💻%20𝗔𝗯𝗼𝘂𝘁%20𝗺𝗲&fontSize=34)
-- 💞️ I’m looking to collaborate on beginners like me. I really want a nerd group to be friends;
-- 📫 How to reach me: on LinkedIn (www.linkedin.com/in/hzrs2024) and X (https://x.com/HannahRios_), please follow me!!;
-- 😄 Pronouns: She/Her;
-- ⚡ Fun fact: I'm addict to play games and coffee; sometimes I'm too optimist and sometimes like Billie Eillish...;I'm too curious about everything!;I Love music (good music) like Aurora and Alice Merton; I'm a cozy girl.
+### ℍ𝕚! 𝕀'𝕞 ℍ𝕒𝕟𝕟𝕒𝕙 ℝ𝕚𝕠𝕤! 👋
 
-- I want to learn with you!
+## 🇫​​🇺​​🇹​​🇺​​🇷​​🇪​ 🇫​​🇷​​🇴​​🇳​​🇹​-🇪​​🇳​​🇩​ 🇼​​🇪​​🇧​ 🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇷
 
-<!---
-I want to learn with you!
---->
+
+## 👩‍💻 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲
+
+I’m a Web Development student focused on building interactive and well-designed web projects using HTML, CSS, and JavaScript, with a strong interest in front-end development and UI design. I also hold a bachelor’s degree in Biological Sciences, which helped me develop analytical and problem-solving skills that I now apply to technology.
+
+
+## 🛠 𝙏𝙤𝙤𝙡𝙨
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 📚 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 & 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+
+I’m currently working on my professional portfolio website and rebuilding my projects to showcase my skills in front-end development.
+
